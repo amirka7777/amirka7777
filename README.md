@@ -1,7 +1,9 @@
-![alt text](images/1.gif)
+![@amirka7777's GitHub Stats](https://devquest-mu.vercel.app/card/amirka7777.svg?accent=ffffff&ascii=3&title=Knowledge+is+power&stats=repos%2Cfollowers%2Ccontributions%2Cstreak)
 
-# yukay
+# Мгоян Амир - yukay
+### Я студент второго курса *СибГУТИ* (Сибирский государственный университет телекоммуникаций и информатики), учусь на направлении "Информатика и вычислительная техника". Профиль - "Программное обеспечение систем мобильной связи".
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Monocraft&size=30&duration=2500&pause=100&color=6E6E6E&background=FF000000&width=1000&lines=I'm+Yukay;I'm+a+begginer+developer;I'm+a+first-year+student)
-
-
+## My stacks
+![Go](https://img.shields.io/badge/Go-000000?style=flat&logo=go&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat&logo=sqlite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
