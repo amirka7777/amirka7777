@@ -7,3 +7,4 @@
 ![Go](https://img.shields.io/badge/Go-000000?style=flat&logo=go&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat&logo=sqlite&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white)
